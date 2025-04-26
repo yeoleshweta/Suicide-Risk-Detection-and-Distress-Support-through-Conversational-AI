@@ -1,4 +1,11 @@
-# Suicide & Distress
+# Suicide Risk Detection and Distress Support through Conversational AI
+
+Problem
+Suicidal ideation and emotional distress are pervasive global mental health issues, yet real-time, emotionally intelligent 
+interventions are scarce. Existing NLP systems for suicide detection (e.g., GRU-based classifiers or models used by Shout 
+or Reddit datasets) focus solely on classification, often limited to single-turn messages. They neither track multi-turn 
+emotional shifts nor offer empathetic, distress-alleviating support in real-time dialogue. There is a critical gap in building 
+AI systems that detect risk and actively support individuals in distress through intelligent conversation.
 
 This repository contains two complementary datasets for pilot testing our multi‐modal suicide‐risk and distress‐detection model:
 
