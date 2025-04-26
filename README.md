@@ -1,4 +1,4 @@
-# Suicide & Distress Dataset
+# Suicide & Distress
 
 This repository contains two complementary datasets for pilot testing our multi‐modal suicide‐risk and distress‐detection model:
 
